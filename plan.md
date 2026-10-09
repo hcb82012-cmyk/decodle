@@ -1,13 +1,15 @@
-## Plan for decodle
+## Plan for decodle ##
 as of 09/10/26
 
-# next month 
+# next month #
 migrate to github
+
 clean code 
+
 begain devolpment of new game
 
-# next 6 months
+# next 6 months #
 release pre-relese of new game 
 
-# next 12 months 
+# next 12 months #
 sunset decodle
