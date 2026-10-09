@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add words</title>
+</head>
+<body>
+    <form>
+  <label for="word">Enter a 5-letter word:</label><br>
+  <input 
+    type="text" 
+    id="word" 
+    name="word" 
+    required 
+    minlength="5" 
+    maxlength="5" 
+    pattern="[A-Za-z]{5}" 
+    title="Five-letter word">
+  <input type="submit">
+</form>
+<script src="add_words.js" defer></script>
+
+</body>
+</html>
