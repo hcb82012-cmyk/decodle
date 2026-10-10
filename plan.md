@@ -1,15 +1,15 @@
 ## Plan for decodle ##
-as of 09/10/26
+10/10/26
 
 # next month #
-migrate to github
+-migrate to github
 
-clean code 
+-clean code 
 
-begain devolpment of new game
+-begain devolpment of Analyzele
 
 # next 6 months #
-release pre-relese of new game 
+-release pre-relese of new game 
 
 # next 12 months #
-sunset decodle
+-sunset decodle
